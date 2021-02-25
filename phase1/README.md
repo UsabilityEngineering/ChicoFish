@@ -1,4 +1,4 @@
-# Team Name, Phase 1: Requirements Gathering
+# Chico Fish, Phase 1: Requirements Gathering
 
 ## Methods
 
