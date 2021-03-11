@@ -17,14 +17,19 @@ We used a survey and naturalistic observation methods to gather data for this pr
 ## Findings
 
 We collected mock data and generated some graphs from the result.
+
 ![1](1.png)
 * The amount of people within our class who had a negative experience setting up a home WiFi network is greater than the people who had a positive experience.
+
 ![2](2.png)
 * The amount of people within our class who used outside resource for assistance when setting up a home WiFi network is greater than the people who didn't.
+
 ![3](3.png)
 * It is split between the middle on whether students have set up a home WiFi network on mobile app or desktop computer.
+
 ![4](4.png)
 * Majority of the class who set up a home WiFi network on desktop computer did it on a Windows machine, and the rest on Macintosh. No one set up on Linux.
+
 ![5](5.png)
 * In terms of the people who set up their home WiFi network on a mobile device, majority did it on iOS, and the rest on Android.
 
@@ -54,10 +59,10 @@ Due to the ongoing covid-19 pandemic, we weren’t able to collect as much data 
 would have hoped.  I believe we would have been able to get a lot more participants for our survey if we were in person, as not too many people are very inclined to willingly take a survey link online.  I believe we also would have been able to get more accurate data from our naturalistic observations if we were in person.  While the descriptions of experiences we received were great, a lot of details were left out due to the individual not being able to remember them, or not willing to mention them.
 
 ## Personas
-# Robert
+### Robert
 Robert is a military veteran in his late 70s who wants to connect with his old friends. Since COVID-19 pandemic, Robert must quarantine the majority of the time for the sake of health. He heard how some friends are connecting through Zoom and Facebook, but isn’t familiar with that because Robert rarely has experience with computers.
 
-# Emily
+### Emily
 Emily is a college student that is a computer engineering major in her early 20’s who just transferred to her dream college with her friends. Since the college is far away from home, she had to find an apartment with her friends.  Unfortunately the apartment does not come with the internet, therefore she had to set up a WiFi system for her and her friends who are housemates. Emily does have some experience with WiFi setups, but apparently the setup for the apartment was a little different.
 
 ## Scenarios
