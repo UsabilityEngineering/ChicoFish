@@ -1,10 +1,10 @@
 # ChicoFish
 
-Replace this text with a brief introduction to the problem space.
+Our goal is to create an application to ease the process of setting up a wifi network.  We feel that too many people encounter difficulties while trying to set up their own network, or try to improve the connection of their already existing network.  
 
 ## Team Members
 
-* **Matthew Burns** - Summary of contributions
+* **Matthew Burns** - Assisted in collecting data, as well as writing methods, caveats, and scenarios.
 * **Minh Nguyen** - Summary of contributions
 * **Eric Schieber Jr.** - Summary of contributions
 
