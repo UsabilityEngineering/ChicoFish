@@ -1,5 +1,14 @@
 # Chico Fish, Phase 1: Requirements Gathering
 
+## Executive Summary
+* Naturalistic observation of participants (n=5) having different methods in setting up their home WiFi that includes obstacles that they had encountered. Majority of them seek out troubleshooting assistance.
+* Online survey on users (n=17) of different experiences with home WiFi setups.
+* Our research revealed that at least half of participants relied on some sort of service for setup assistance.
+* At least half of participants had negative experiences setting up their home WiFi network.
+* Designed personas and scenarios:
+	* Robert: Military veteran in late 70s wants to have internet to connect with friends
+	* Emily: College student that wants the internet for the apartment but bound to encounter problems with connections with the internet.
+
 ## Methods
 
 We used a survey and naturalistic observation methods to gather data for this project.  We first chose the survey method since it would be the easiest and most efficient way of gathering data, since we 8can just mass distribute the link to our survey to get responses.  Our second method was naturalistic observation, as we thought we could gain valuable data from watching someone attempt to set up their home network.  Although, since we are currently learning from home due to the pandemic, we had individuals describe to us in detail their experience with setting up their home network.  The size of the survey group is n=17, and the size of our naturalistic observation group was n=5.
