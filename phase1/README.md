@@ -64,5 +64,3 @@ Naturalistic Observation: https://docs.google.com/document/d/1oZumXPlu1UcA48N91b
 
 [See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
 
-
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc) as PDF documents.
