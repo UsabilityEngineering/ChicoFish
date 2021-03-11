@@ -4,9 +4,9 @@ Our goal is to create an application to ease the process of setting up a wifi ne
 
 ## Team Members
 
-* **Matthew Burns** - Assisted in collecting data, as well as writing methods, caveats, and scenarios.
-* **Minh Nguyen** - Summary of contributions
-* **Eric Schieber Jr.** - Summary of contributions
+* **Matthew Burns** - Assisted in collecting data, as well as writing the methods, caveats, and scenarios.
+* **Minh Nguyen** - Assisted in collecting data, as well as writing the executive summary, findings, and personas.
+* **Eric Schieber Jr.** - Assisted in collecting data, as well as writing the introduction, findings, conclusions, and personas.
 
 # User-Centered Design Artifacts
 
