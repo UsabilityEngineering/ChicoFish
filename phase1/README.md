@@ -17,6 +17,12 @@ We used a survey and naturalistic observation methods to gather data for this pr
 ## Findings
 
 We collected mock data and generated some graphs from the result.
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
+![5](5.png)
+
 
 
 ## Conclusions
