@@ -1,6 +1,6 @@
 # ChicoFish
 
-Our goal is to create an application to ease the process of setting up a wifi network.  We feel that too many people encounter difficulties while trying to set up their own network, or try to improve the connection of their already existing network.  
+Our goal is to create an application to ease the process of setting up a wifi network.  We feel that too many people encounter difficulties while trying to set up their own network, or try to improve the connection of their already existing network (Unfamiliar with installing routers/modems, confusing settings while setting up routers/modems, having to contact ISP for assitance, not knowing where to set up devices for best coverage, not knowing where to install wifi extenders/repeaters, etc..).
 
 ## Team Members
 
