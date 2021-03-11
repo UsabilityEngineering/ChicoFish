@@ -18,11 +18,17 @@ We used a survey and naturalistic observation methods to gather data for this pr
 
 We collected mock data and generated some graphs from the result.
 ![1](1.png)
+* The amount of people within our class who had a negative experience setting up a home WiFi network is greater than the people who had a positive experience.
 ![2](2.png)
+* The amount of people within our class who used outside resource for assistance when setting up a home WiFi network is greater than the people who didn't.
 ![3](3.png)
+* It is split between the middle on whether students have set up a home WiFi network on mobile app or desktop computer.
 ![4](4.png)
+* Majority of the class who set up a home WiFi network on desktop computer did it on a Windows machine, and the rest on Macintosh. No one set up on Linux.
 ![5](5.png)
+* In terms of the people who set up their home WiFi network on a mobile device, majority did it on iOS, and the rest on Android.
 
+# Responses
 When asked if there was anything the users would change to improve their experience, we received the answers:
 * "Yes"
 * "Basically everything"
