@@ -63,5 +63,6 @@ Survey: https://docs.google.com/forms/d/e/1FAIpQLSeP1IQISey-KGsWtA1eXO8S-nzSzCIw
 Naturalistic Observation: https://docs.google.com/document/d/1oZumXPlu1UcA48N91bHH8pi_XS-HEUGmv2vNSP9EJ44/edit?usp=sharing
 
 
+**Personas and Scenarios** 
 [See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
 
