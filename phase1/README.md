@@ -8,7 +8,7 @@
 * At least half of participants had negative experiences setting up their home WiFi network.
 * Designed personas and scenarios:
 	* **Robert**: Military veteran in late 70s wants to have internet to connect with friends
-	* **Emily**: College student that wants the internet for the apartment but bound to encounter problems with connections with the internet.
+	* **Emily**: College student that wants internet for the apartment but bound to encounter problems with connections with the internet.
 ***
 ## Methods
 
