@@ -1,4 +1,4 @@
-# Team Name - Meet the Users
+# ChicoFish - Matthew Burns, Eric Schieber Jr, Minh Nguyen
 
 # Personas
 
