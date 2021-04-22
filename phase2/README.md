@@ -44,6 +44,7 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 | <img src="https://i.imgur.com/VfXYdVK.png" width="200"> |  <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
 | :---: | :---: | :---: |
 | Connection Complete | Speed Test | Congratulations Screen |
+| This screen will notify the user that the connection to their repeater/extender was succesful. At this point, they will be able to assign a name to the extender/repeater that they set up. | This screen will allow the user to run a speed test on their network after setting up their router and their extenders/repeaters. | This screen will be shown once every setup is finally complete and is ready for consumer use. |
 
 ## If No Extenders/Repeaters:
 | <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
