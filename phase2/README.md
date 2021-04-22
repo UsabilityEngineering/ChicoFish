@@ -28,9 +28,11 @@ This design is what we created, inspired by the common issues that most of our i
 | <img src="https://i.imgur.com/Al4JpIF.png" width="200"> |  <img src="https://i.imgur.com/zjj4qUr.png" width="200"> |  <img src="https://i.imgur.com/JhGx0uZ.png" width="200"> |
 | :---: | :---: | :---: |
 | Router Placement | Device Selection | Router Placement|
-| <img src="https://i.imgur.com/we4jkr8.png" width="200"> |  <img src="https://i.imgur.com/Vr31Bu3.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> | <img src="https://i.imgur.com/z13uyk1.png" width="200"> |
-| :---: | :---: | :---: | :---: |
+| <img src="https://i.imgur.com/we4jkr8.png" width="200"> |  <img src="https://i.imgur.com/Vr31Bu3.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> 
+| :---: | :---: | :---: |
 | Router Placement | Device Selection | Router Placement| Router Placement |
+| <img src="https://i.imgur.com/z13uyk1.png" width="200"> |
+| :---: |
 
 ## Extender/Repeater Set Up:
 | <img src="https://i.imgur.com/Y7pOJ97.png" width="200"> |  <img src="https://i.imgur.com/qYBpy5z.png" width="200"> |  <img src="https://i.imgur.com/or7vZJN.png" width="200"> |
