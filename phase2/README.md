@@ -29,7 +29,7 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 | <img src="https://i.imgur.com/Al4JpIF.png" width="200"> |  <img src="https://i.imgur.com/zjj4qUr.png" width="200"> |  <img src="https://i.imgur.com/JhGx0uZ.png" width="200"> |
 | :---: | :---: | :---: |
 | Channel Adjustment Tip | Scanning Animation | List containing networks info |
-| Channel Adjustment Tip description. | Scanning Animation description. | List containing networks info description. |
+| This screen will display a very helpful tip on optimizing their network for obtaining the best performance and speed from their network. | Visual animation to indicate the user that it is scanning surrounding networks in order to prepare for network performance tweak. | This screen will display the outcome of the scanning from previous screen. It will give the user the option to view the generated graph for better visualization of whats going on. |
 
 | <img src="https://i.imgur.com/we4jkr8.png" width="200"> |  <img src="https://i.imgur.com/Vr31Bu3.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> 
 |
