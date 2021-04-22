@@ -40,11 +40,11 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 |
 | :---: |
 | Analyzing complete. |
-| Complete description. 
+| Complete description. |
 ## Extender/Repeater Set Up:
 | <img src="https://i.imgur.com/Y7pOJ97.png" width="200"> |  <img src="https://i.imgur.com/qYBpy5z.png" width="200"> |  <img src="https://i.imgur.com/or7vZJN.png" width="200"> |
 | :---: | :---: | :---: |
-| Router Placement | Device Selection | Router Placement|
+| Router Placement | Device Selection | Router Placement |
 | <img src="https://i.imgur.com/VfXYdVK.png" width="200"> |  <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
 | :---: | :---: | :---: |
 | Router Placement | Device Selection | Router Placement|
