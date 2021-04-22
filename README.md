@@ -11,8 +11,8 @@ Our goal is to create an application to ease the process of setting up a wifi ne
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](#)
-* [Prototype](#)
+* [Wireframes](https://drive.google.com/drive/folders/1di8XSH2NeVlfOoIbexIJtlIAx3oENKbA?usp=sharing)
+* [Prototype](https://xd.adobe.com/view/8dadd589-8653-4172-8b1c-1c1d78503e0c-d8fe/)
 
 # Phase 1: Requirements Gathering
 
