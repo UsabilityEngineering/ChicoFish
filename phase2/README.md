@@ -12,7 +12,6 @@ https://xd.adobe.com/view/8dadd589-8653-4172-8b1c-1c1d78503e0c-d8fe/
 
 ## Start:
 |<img src="https://i.imgur.com/WYaJ90x.png" width="200"> | <img src="https://i.imgur.com/8MxKVMy.png" width="200"> |
-| :---: | :---: |
 | Home Page  | Device Selection |
 | This page is where the user starts. The user will be able to set up and add a new device by tapping the plus sign in the top right corner. | This is where the user will be able to select which type of device they'd like to set up. If the user has already set up their router, they can set up routers and repeaters seperately. | This page will then provide the user with general tips as to where to place their router. |
 
