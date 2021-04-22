@@ -22,7 +22,7 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 | <img src="https://i.imgur.com/Zo1GLCv.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> |  <img src="https://i.imgur.com/M7ok27L.png" width="200"> |
 | :---: | :---: | :---: |
 | Settings Confirmation | Applying Settings | Finish Applying Settings |
-
+| Settings Confirmation description. | Applying Settings Description. | Finish Applying description.
 ## Network Channel Analyzer:
 
 | <img src="https://i.imgur.com/Al4JpIF.png" width="200"> |  <img src="https://i.imgur.com/zjj4qUr.png" width="200"> |  <img src="https://i.imgur.com/JhGx0uZ.png" width="200"> |
