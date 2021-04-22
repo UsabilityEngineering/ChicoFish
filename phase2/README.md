@@ -7,14 +7,14 @@ This design is what we created, inspired by the common issues that most of our i
 
 ## Wireframes:
 
-|<img src="https://i.imgur.com/WYaJ90x.png" width="200"> | <img src="https://i.imgur.com/8MxKVMy.png" width="200"> | <img src="https://i.imgur.com/q9JpQFC.png" width="200"> |
-| :---: | :---: | :---: |
-| Home Page  | Device Selection | Router Placement|
+|<img src="https://i.imgur.com/WYaJ90x.png" width="200"> | <img src="https://i.imgur.com/8MxKVMy.png" width="200"> |
+| :---: | :---: |
+| Home Page  | Device Selection |
 | This page is where the user starts. The user will be able to set up and add a new device by tapping the plus sign in the top right corner. | This is where the user will be able to select which type of device they'd like to set up. If the user has already set up their router, they can set up routers and repeaters seperately. | This page will then provide the user with general tips as to where to place their router. |
 
 ## Router Set Up:
 
-| <img src="https://i.imgur.com/XU8AIl1.png" width="200"> |  <img src="https://i.imgur.com/g63YXB3.png" width="200"> |  <img src="https://i.imgur.com/nFArmlgh.jpg" width="200"> |
+| <img src="https://i.imgur.com/q9JpQFC.png" width="200"> |  <img src="https://i.imgur.com/qOXDCon.png" width="200"> |  <img src="https://i.imgur.com/DJpfT6F.png" width="200"> |
 | :---: | :---: | :---: |
-| Home Page  | Device Selection | Router Placement|
+| Router Placement | Device Selection | Router Placement|
 | This page is where the user starts. The user will be able to set up and add a new device by tapping the plus sign in the top right corner. | This is where the user will be able to select which type of device they'd like to set up. If the user has already set up their router, they can set up routers and repeaters seperately. | This page will then provide the user with general tips as to where to place their router. |
