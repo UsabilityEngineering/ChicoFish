@@ -22,7 +22,8 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 | <img src="https://i.imgur.com/Zo1GLCv.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> |  <img src="https://i.imgur.com/M7ok27L.png" width="200"> |
 | :---: | :---: | :---: |
 | Settings Confirmation | Applying Settings | Finish Applying Settings |
-| Settings Confirmation description. | Applying Settings Description. | Finish Applying description.
+| This is the confirmation page where it confirms with the user if the information they entered is correct before it is applied to the network router. | A visual animation to indicate the user that settings are being applied. It may take a while depending on the user's connection. | Once settings are applied, it will show the user that the initial setup is complete and may transfer the user to the next step in setting up their network. |
+
 ## Network Channel Analyzer:
 
 | <img src="https://i.imgur.com/Al4JpIF.png" width="200"> |  <img src="https://i.imgur.com/zjj4qUr.png" width="200"> |  <img src="https://i.imgur.com/JhGx0uZ.png" width="200"> |
