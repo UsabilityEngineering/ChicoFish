@@ -7,6 +7,7 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 
 # Wireframes
 
+## Start:
 |<img src="https://i.imgur.com/WYaJ90x.png" width="200"> | <img src="https://i.imgur.com/8MxKVMy.png" width="200"> |
 | :---: | :---: |
 | Home Page  | Device Selection |
