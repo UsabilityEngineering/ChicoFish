@@ -41,3 +41,8 @@ This design is what we created, inspired by the common issues that most of our i
 | <img src="https://i.imgur.com/VfXYdVK.png" width="200"> |  <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
 | :---: | :---: | :---: |
 | Router Placement | Device Selection | Router Placement|
+
+## If No Extenders/Repeaters:
+| <img src="https://i.imgur.com/Y7pOJ97.png" width="200"> |  <img src="https://i.imgur.com/qYBpy5z.png" width="200"> |  <img src="https://i.imgur.com/or7vZJN.png" width="200"> |
+| :---: | :---: | :---: |
+| Router Placement | Device Selection | Router Placement|
