@@ -29,7 +29,7 @@ This design is what we created, inspired by the common issues that most of our i
 | :---: | :---: | :---: |
 | Router Placement | Device Selection | Router Placement|
 
-| <img src="https://i.imgur.com/Al4JpIF.png" width="200"> |  <img src="https://i.imgur.com/we4jkr8.png" width="200"> |  <img src="https://i.imgur.com/JhGx0uZ.png" width="200"> |
-| :---: | :---: | :---: |
-| Router Placement | Device Selection | Router Placement|
+| <img src="https://i.imgur.com/we4jkr8.png" width="200"> |  <img src="https://i.imgur.com/Vr31Bu3.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> |
+| :---: | :---: | :---: | :---: |
+| Router Placement | Device Selection | Router Placement| Router Placement |
 
