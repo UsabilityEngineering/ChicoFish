@@ -39,10 +39,10 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 ## Extender/Repeater Set Up:
 | <img src="https://i.imgur.com/Y7pOJ97.png" width="200"> |  <img src="https://i.imgur.com/qYBpy5z.png" width="200"> |  <img src="https://i.imgur.com/or7vZJN.png" width="200"> |
 | :---: | :---: | :---: |
-| Router Placement | Device Selection | Router Placement |
+| Repeater/Extender Start | Repeater/Extender Instructions | Connecting Screen |
 | <img src="https://i.imgur.com/VfXYdVK.png" width="200"> |  <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
 | :---: | :---: | :---: |
-| Router Placement | Device Selection | Router Placement|
+| Connection Complete | Speed Test | Congratulations Screen |
 
 ## If No Extenders/Repeaters:
 | <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
