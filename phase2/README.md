@@ -32,11 +32,12 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 | Channel Adjustment Tip | Scanning Animation | List containing networks info |
 | This screen will display a very helpful tip on optimizing their network for obtaining the best performance and speed from their network. | Visual animation to indicate the user that it is scanning surrounding networks in order to prepare for network performance tweak. | This screen will display the outcome of the scanning from previous screen. It will give the user the option to view the generated graph for better visualization of whats going on. |
 | <img src="https://i.imgur.com/we4jkr8.png" width="200"> |  <img src="https://i.imgur.com/Vr31Bu3.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> |
-| Visualization of networks | Adjusting channel | Applying Settings |
 | :---: | :---: | :---: |
+| Visualization of networks | Adjusting channel | Applying Settings |
 | This screen will show the results in a more visual form in order to give the user a better understanding of whats going on. In the graph, the x-axis represents channels available for networks, while y-axis being the signal strengths of networks. | The user will then be allowed to choose their desired channel for their network. They can choose based on the results that they got from the scanning. | Visual animation to indicate the user that it is applying the settings the user chose. |
 | <img src="https://i.imgur.com/z13uyk1.png" width="200"> |
 | :---: |
+| Analyzer Complete |
 | This indicates that the user is finished optimizing their networks by choosing the best channel. |
 ## Extender/Repeater Set Up:
 | <img src="https://i.imgur.com/Y7pOJ97.png" width="200"> |  <img src="https://i.imgur.com/qYBpy5z.png" width="200"> |  <img src="https://i.imgur.com/or7vZJN.png" width="200"> |
