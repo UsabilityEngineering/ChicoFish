@@ -34,9 +34,13 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 |
 | :---: | :---: | :---: |
 | Visualization of networks | Adjusting channel | Applying Settings |
-| <img src="https://i.imgur.com/z13uyk1.png" width="200"> |
-| :---: |
+| Visualization description | Adjusting description | Applying description |
 
+| <img src="https://i.imgur.com/z13uyk1.png" width="200"> |
+|
+| :---: |
+| Analyzing complete. |
+| Complete description. 
 ## Extender/Repeater Set Up:
 | <img src="https://i.imgur.com/Y7pOJ97.png" width="200"> |  <img src="https://i.imgur.com/qYBpy5z.png" width="200"> |  <img src="https://i.imgur.com/or7vZJN.png" width="200"> |
 | :---: | :---: | :---: |
