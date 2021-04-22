@@ -9,7 +9,7 @@ This design is what we created, inspired by the common issues that most of our i
 
 |<img src="https://i.imgur.com/wiSUxHi.png" width="200"> | <img src="https://i.imgur.com/dIRxKgm.png" width="200"> | <img src="https://i.imgur.com/1nKzLD7.png" width="200"> |
 | :---: | :---: | :---: |
-| Login | Create | Home Page |
+| Home Page  | Device Selection | Home Page |
 | Here is where the user can login or create an account with us to allow us to keep track of their previous scans. | This is where the user will be taken if they have not used this app before, and need to create an account. | The user can select what feature to use from the app at this point. They can perform an analysis of a plant by scanning it for issues, check their previous scans, or they can find a quick lookup on common illnesses that a plant may get. |
 | <img src="https://i.imgur.com/XU8AIl1.png" width="200"> |  <img src="https://i.imgur.com/g63YXB3.png" width="200"> |  <img src="https://i.imgur.com/nFArmlgh.jpg" width="200"> |
 | Plant Scan | Plant Scan Confirmation | Plant Scan Results |
