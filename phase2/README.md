@@ -40,7 +40,7 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 | <img src="https://i.imgur.com/Y7pOJ97.png" width="200"> |  <img src="https://i.imgur.com/qYBpy5z.png" width="200"> |  <img src="https://i.imgur.com/or7vZJN.png" width="200"> |
 | :---: | :---: | :---: |
 | Repeater/Extender Start | Repeater/Extender Instructions | Connecting Screen |
-| After setting up their network, the user will be asked if they have any repeaters/extenders that they'd like to set up. If they select yes, then they will follow the set up process. If they select no, they will be taken automatically to the network speed test. | This screen is an indicator that the app is trying to connect to the repeater/extender that the user is trying to set up.  |
+| After setting up their network, the user will be asked if they have any repeaters/extenders that they'd like to set up. If they select yes, then they will follow the set up process. If they select no, they will be taken automatically to the network speed test. | This screen provides instructions for the user to set up their repeater/extender. | This screen is an indicator that the app is trying to connect to the repeater/extender that the user is trying to set up. |
 | <img src="https://i.imgur.com/VfXYdVK.png" width="200"> |  <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
 | :---: | :---: | :---: |
 | Connection Complete | Speed Test | Congratulations Screen |
