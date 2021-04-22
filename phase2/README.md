@@ -21,16 +21,16 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 
 | <img src="https://i.imgur.com/Zo1GLCv.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> |  <img src="https://i.imgur.com/M7ok27L.png" width="200"> |
 | :---: | :---: | :---: |
-| Router Placement | Device Selection | Router Placement|
+| Settings Confirmation | Applying Settings | Finish Applying Settings |
 
 ## Network Channel Analyzer:
 
 | <img src="https://i.imgur.com/Al4JpIF.png" width="200"> |  <img src="https://i.imgur.com/zjj4qUr.png" width="200"> |  <img src="https://i.imgur.com/JhGx0uZ.png" width="200"> |
 | :---: | :---: | :---: |
-| Router Placement | Device Selection | Router Placement|
+| Channel Adjustment Tip | Scanning Animation | List containing networks info|
 | <img src="https://i.imgur.com/we4jkr8.png" width="200"> |  <img src="https://i.imgur.com/Vr31Bu3.png" width="200"> |  <img src="https://i.imgur.com/t2svZsw.png" width="200"> 
 | :---: | :---: | :---: |
-| Router Placement | Device Selection | Router Placement| Router Placement |
+| Visualization of networks | Device Selection | Router Placement| Router Placement |
 | <img src="https://i.imgur.com/z13uyk1.png" width="200"> |
 | :---: |
 
