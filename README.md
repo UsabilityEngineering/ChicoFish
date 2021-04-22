@@ -24,8 +24,8 @@ Our goal is to create an application to ease the process of setting up a wifi ne
 
 # Phase 2: Interaction Design
 
-*Coming Soon*
-
+* Created Wireframes and Prototype from information gathered from Phase 1.
+* Wireframes and Protoype were designed with the consideration of Efficiency, Effectivness, and Usefulness.
 [Full phase 2 report](phase2/)
 
 # Phase 3: Usability Evaluation
