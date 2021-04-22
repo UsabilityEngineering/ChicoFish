@@ -5,6 +5,9 @@
 # Executive Summary: 
 This design is what we created, blahahahasljdflandsknkjanskjndackas
 
+# Prototype Link
+https://xd.adobe.com/view/8dadd589-8653-4172-8b1c-1c1d78503e0c-d8fe/
+
 # Wireframes
 
 ## Start:
@@ -50,6 +53,4 @@ This design is what we created, blahahahasljdflandsknkjanskjndackas
 | <img src="https://i.imgur.com/urZotAE.png" width="200"> |  <img src="https://i.imgur.com/TAtP6Oh.png" width="200"> |
 | :---: | :---: |
 | Router Placement | Device Selection |
-
-# Prototype Link
-https://xd.adobe.com/view/8dadd589-8653-4172-8b1c-1c1d78503e0c-d8fe/
+| If the user does not have any extenders or repeaters to set up, it will skip the process and go straight into finalization, which is the speed test to test the connection if it is operating correctly. | This screen will be shown once every setup is finally complete and is ready for consumer use. |
