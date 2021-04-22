@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We created a mobile application that allows the user to set up their routers, extenders, and repeaters for their home WiFi network. The user will start at a screen that contains a list of devices that they may have already set up. If they haven't set up any devices, the screen will blank. The user can then add a device by tapping the plus icon in the top right corner. From there, the user will be able to decide whether or not they would like to set up a router or a repeater/extender. Depending on which device they choose, the user will be guided along a set of instructions to succesfully set up their device. After setting up either device, the user will be brought to a speed test that will test the download/upload speed of their current network. After setting up their rother, extnder or repeater, the user will be congratulated and will be able to return to the home page.
 
 # Prototype Link
-(https://xd.adobe.com/view/8dadd589-8653-4172-8b1c-1c1d78503e0c-d8fe/)
+https://xd.adobe.com/view/8dadd589-8653-4172-8b1c-1c1d78503e0c-d8fe/
 
 # Wireframes
 
