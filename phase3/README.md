@@ -6,8 +6,7 @@
 
 # Protocol PDF Link
 
-<a href="https://github.com/UsabilityEngineering/ChicoFish/blob/master/phase3/Usability%20Test.pdf"></a>
-
+[Protocol](Usability Testing.pdf)
 # Prototype Link
 
 # Explanations to Protocol Questions
