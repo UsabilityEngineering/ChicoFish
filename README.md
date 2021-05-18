@@ -12,7 +12,7 @@ Our goal is to create an application to ease the process of setting up a wifi ne
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](https://drive.google.com/drive/folders/1di8XSH2NeVlfOoIbexIJtlIAx3oENKbA?usp=sharing)
-* [Prototype](https://xd.adobe.com/view/f3c8beed-ed1a-42d9-bf71-f887c66fcbbe-a69b/screen/dc608492-96be-44bb-8100-1910a92d7d19/?fullscreen)
+* [Prototype](https://xd.adobe.com/view/f3c8beed-ed1a-42d9-bf71-f887c66fcbbe-a69b/?fullscreen)
 
 # Phase 1: Requirements Gathering
 
