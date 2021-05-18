@@ -6,7 +6,7 @@
 
 # Protocol PDF Link
 
-<a href="https://discordapp.com/channels/808811104058212402/808811104058212407/844064670948130866" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://discordapp.com/channels/808811104058212402/808811104058212407/844064670948130866"></a>
 
 # Prototype Link
 
