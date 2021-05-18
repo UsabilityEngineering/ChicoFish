@@ -16,3 +16,4 @@ For this phase, we have completed and published our functional interactive proto
 # Overall Approach to The Study
 
 # Data Collection Spreadsheet
+* [Spreadsheet link](https://docs.google.com/spreadsheets/d/1h89uWes5AUvS9k97yhjLPsboqdWE7ibViTRhDrIcEps/edit#gid=0)
