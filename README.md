@@ -4,7 +4,7 @@ Our goal is to create an application to ease the process of setting up a wifi ne
 
 ## Team Members
 
-* [Matthew Burns](https://github.com/UsabilityEngineering/ux-portfolio-OBurnsy22) - Assisted in collecting data, as well as writing the methods, caveats, and scenarios.
+* [Matthew Burns](https://github.com/UsabilityEngineering/ux-portfolio-OBurnsy22) - Assisted in collecting data, writing the methods, caveats, scenarios, developing wireframe, and data collection protocol.
 * [Minh Nguyen](https://github.com/UsabilityEngineering/ux-portfolio-mnguyen1996) - Assisted in collecting data, as well as writing the executive summary, findings, and personas.
 * [Eric Schieber Jr.](https://github.com/UsabilityEngineering/ux-portfolio-ericschieberjr) - Assisted in collecting data, as well as writing the introduction, findings, conclusions, and personas.
 
