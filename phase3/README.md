@@ -6,7 +6,7 @@
 
 # Protocol PDF Link
 
-<a href="https://discordapp.com/channels/808811104058212402/808811104058212407/844064670948130866"></a>
+<a href="https://github.com/UsabilityEngineering/ChicoFish/blob/master/phase3/Usability%20Test.pdf"></a>
 
 # Prototype Link
 
