@@ -31,6 +31,7 @@ Our goal is to create an application to ease the process of setting up a wifi ne
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+* Created interative prototype of our app.
+* Created data collection questions, protocol, and spreadsheet.
 
 [Full phase 3 report](phase3/)
