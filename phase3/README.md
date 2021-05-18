@@ -6,7 +6,7 @@
 
 # Protocol PDF Link
 
-[Protocol](Usability Testing.pdf)
+[Protocol](Usability Test.pdf)
 # Prototype Link
 
 # Explanations to Protocol Questions
