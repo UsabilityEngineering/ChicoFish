@@ -7,7 +7,7 @@ For this phase, we have completed and published our functional interactive proto
 
 # Protocol PDF Link
 
-[Protocol](Usability_Test.pdf)
+* [Protocol](Usability_Test.pdf)
 # Prototype Link
 
 * [Prototype](https://xd.adobe.com/view/8dadd589-8653-4172-8b1c-1c1d78503e0c-d8fe/?fullscreen)
