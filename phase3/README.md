@@ -1,4 +1,4 @@
-# Phase 2: Interaction Design
+# Phase 3: Interaction Design
 
 *Eric Schieber, Matthew Burns, Minh Nguyen*
 
